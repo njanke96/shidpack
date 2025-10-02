@@ -6,6 +6,11 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fb413ba504cfaae8ab4d96ede3944b8eb15fa4238ae02b4331bdad2549876f2e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "1b391fef75582ef9d935c095646a28db239ba4792a4ce0e8778b5e1650b20d5f"
+hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
+hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
 metafile = true
 
 [[files]]
@@ -222,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e8cbe7ffcde1a34eb5aa3b97d8fd2baff26b7ee105c37cb6a9e65a388c5a0866"
+hash = "d238a2c586765e24ca3385940220869f39c25fa402e0e802db446674977db7c5"
 metafile = true
 
 [[files]]
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
+hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
 metafile = true
 
 [[files]]
@@ -352,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
 metafile = true
 
 [[files]]
@@ -361,13 +366,8 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "4ba42e13f09ee4ea555e430aadc54b2d6e4ffa0ac2f0aebfa5a0542f193c5f47"
+hash = "f62c5f9d705673364e974664b9b1e31dd71ba62cf49ef9b3ca60a1c75e562718"
 metafile = true
 
 [[files]]
@@ -387,37 +387,37 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "902c397d5dfc69b497681ba71aa5b8a8a85479b1ccf25157867e4803c16dd65b"
+hash = "03d964cba45be30fbcbef52f89f3953185737f55c8934d12e199b67194c2b368"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
+hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
 metafile = true
 
 [[files]]
