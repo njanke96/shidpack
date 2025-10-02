@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/better-villages-immersive-engineering.pw.toml"
+hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -438,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
-metafile = true
-
-[[files]]
-file = "openloader/data/better-villages-immersive-engineering.pw.toml"
-hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
 metafile = true
 
 [[files]]
