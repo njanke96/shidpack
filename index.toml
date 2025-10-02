@@ -6,6 +6,30 @@ hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
 metafile = true
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "cf1d0e1e3e34aeb409308dbece6530836ab6a9f2bef621cb37b7ce4d31fe2952"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "5289233c84b48c963cc8ffd3142640fa163b43d7b28a455a85827777730a0575"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "e4d550c6519e4c1a53941ef5347129b5d7459cd4c288e47859ac8d1c69c1db29"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "af3db5229d91ecd6e09c18d355b66959984e41d6b6e6e85074afae993fe50bea"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -82,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
+hash = "907fb624b57dc56ec0e7bf39b430aa13a39f0181b150de9b0d749547e506ce3c"
 metafile = true
 
 [[files]]
