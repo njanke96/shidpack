@@ -36,6 +36,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "e86098eaa2e7d9ae6602787711615a5c6ec7ecddd3dc36acbd36c2532ee95757"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -113,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
-metafile = true
-
-[[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "470aa87612a0fad97ee2566e091ddc5ff115c3cde7214d831cb95a5dc34ba531"
 metafile = true
 
 [[files]]
@@ -216,6 +216,11 @@ hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
 
 [[files]]
@@ -356,6 +366,11 @@ hash = "b58d586a0560ceab0ab47d7e3e8b738cf2bec7c5df5ed8f94e95326c61a8b792"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
 metafile = true
@@ -424,3 +439,12 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
+
+[[files]]
+file = "openloader/data/better-villages-immersive-engineering.pw.toml"
+hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3b36a74af34b0b17173d95cd73665e41b7b62fd7f16eb070d080ca97ba5e174a"

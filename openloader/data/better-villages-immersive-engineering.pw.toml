@@ -1,0 +1,8 @@
+name = "Better Villages - Immersive Engineering Compatibility"
+filename = "BetterVillage_ImmersiveEngineering_1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xKSid6zY/versions/92pcolF8/BetterVillage_ImmersiveEngineering_1.21.1.zip"
+hash-format = "sha256"
+hash = "ad85c55c4c6d98fd3724ad30df71463a35a3ffd8c04fe55517b684dc047b10ce"
