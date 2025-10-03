@@ -407,18 +407,8 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
-file = "mods/rar-compat.pw.toml"
-hash = "e96fe1640a48d55c3a22aeb8ac6d622d517ed558f57101683b838678855a88b0"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
-file = "mods/relics-mod.pw.toml"
-hash = "b6836e08f4302a17fd5220ae6aeecf54e2bee332c4afb354dc447af80c6ad46f"
 metafile = true
 
 [[files]]
