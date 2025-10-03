@@ -78,6 +78,10 @@ file = "kubejs/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
 hash = "a7ca1677fa5912e6099d92ee3a759fc1ceeb1cd0edd3158a916050870dffe33c"
 
 [[files]]
+file = "kubejs/data/supplementaries/worldgen/placed_feature/wild_flax.json"
+hash = "9d1caba33536eeebfb56e849a2a909244af1806fee2c51bed60a2055134d9ead"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
 metafile = true
@@ -85,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "4a7568e25cac4f4bedba140135036d9481403069a6d9513a922e9901661c05ca"
 metafile = true
 
 [[files]]
@@ -188,6 +197,16 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "ccd912d3f084b90ae88115cb9b041031aa4da4bb18213b585805fd11b19bdb48"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
 metafile = true
@@ -235,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
@@ -315,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
@@ -460,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f52bb549dde34f8680ff69e0c2962bf2ea5735ade5a6ce3404d622556f0073e8"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ec7bc180cc76398b43e8b1eb2fcd910beecd498dbeff4089b356547a3735d098"
 metafile = true
 
 [[files]]
