@@ -20,7 +20,7 @@ GitHub Repository: [NEED TO MAKE ONE]'
 		// DEFAULT 48
 		"spacing": 96,
 		// DEFAULT 24
-		"separation": 48,
+		"separation": 72,
 		"frequency": 0.2,
 		"salt": 213742069
 	},
