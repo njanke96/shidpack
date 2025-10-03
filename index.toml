@@ -1,9 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bettervillage_1.properties"
+hash = "bdd3124bf3f0e4d08237846a4d888d53c248739358690d60a2be9d41b4cc9fe4"
+
+[[files]]
 file = "config/openloader/data/better-villages-immersive-engineering.pw.toml"
 hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
 metafile = true
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "b60245060d3048fc2ae4f51688967403d0d972ca2efec1d79f201add6f3aa3bb"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "9276c15d1b64fdc2d4b89f712fa5e77095a1494908a381c8b68970a438458357"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
