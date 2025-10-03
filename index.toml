@@ -70,6 +70,14 @@ hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
 metafile = true
 
 [[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "9e075295770e76ed6fe4a3abea8734a4ee799b7bbc17a67e997b6d1dd7a16a97"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
+hash = "a7ca1677fa5912e6099d92ee3a759fc1ceeb1cd0edd3158a916050870dffe33c"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
 metafile = true
