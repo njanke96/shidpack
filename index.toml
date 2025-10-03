@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "1de1fb1d35048f0a3bbd550f31c6e4a8fb004e5f89d15eb0769962cad2a7d70e"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "ef871358f50406377e3c50074ff526ce7c484106f1b91f817fbd92fd37d45b76"
+
+[[files]]
 file = "config/bettervillage_1.properties"
 hash = "bdd3124bf3f0e4d08237846a4d888d53c248739358690d60a2be9d41b4cc9fe4"
 
@@ -52,6 +60,16 @@ hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
 [[files]]
 file = "kubejs/data/better-villages-immersive-engineering.pw.toml"
 hash = "bc97ed27c772a075b0d844431e153ca0022cf6fe5d7e14dddd22738026af0346"
+metafile = true
+
+[[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
