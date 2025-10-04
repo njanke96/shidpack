@@ -37,6 +37,10 @@ file = "config/magnumtorch-server.toml"
 hash = "1eeed4bb991686cae20d3e2202d3027830f6c17480a82a49a36499fc7303f2ac"
 
 [[files]]
+file = "config/nohostilesaroundcampfire.json5"
+hash = "e05518815099e73c3464749be8db6fb64c9ddd6a6eb25c5408e7f67592c511a1"
+
+[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "b60245060d3048fc2ae4f51688967403d0d972ca2efec1d79f201add6f3aa3bb"
 
@@ -244,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "d408eece8df18292b6036b2f5b1b030ca863f65801bf888cda6e862319d5aa74"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
@@ -484,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
 metafile = true
 
 [[files]]
