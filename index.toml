@@ -18,7 +18,7 @@ hash = "1c0e603470bd6bbb2921bdcaab90552d988047ed11c7de3594afcc1628c44584"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7cf96287ef9d87f7bd1263cd21bfa2a5b1368bda29da547b3933f45e1de17c23"
+hash = "344cb8603462b9a7c13384f7ba02011121ad42958342f13008ec2633473f8d74"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -50,11 +50,11 @@ hash = "cf1d0e1e3e34aeb409308dbece6530836ab6a9f2bef621cb37b7ce4d31fe2952"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "5289233c84b48c963cc8ffd3142640fa163b43d7b28a455a85827777730a0575"
+hash = "58cc32c427cc216c117f2ffa8eb37bfbfaeb266405d74907f9cab56adcfb7807"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
-hash = "e4d550c6519e4c1a53941ef5347129b5d7459cd4c288e47859ac8d1c69c1db29"
+hash = "c05a0115d95fffc12e1ab784bb87eda65beb61772deb927e0a0643d9a050558e"
 
 [[files]]
 file = "configureddefaults/config/xaeroworldmap-common.txt"
