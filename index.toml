@@ -17,6 +17,14 @@ file = "config/bettervillage_1.properties"
 hash = "1c0e603470bd6bbb2921bdcaab90552d988047ed11c7de3594afcc1628c44584"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "7cf96287ef9d87f7bd1263cd21bfa2a5b1368bda29da547b3933f45e1de17c23"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "62ea8ed4343c703da9448e9c789eccddbc923647ca966f4aebcea1d8506c6674"
+
+[[files]]
 file = "config/lootintegrations.json"
 hash = "041f38c698e4d28b012ab9c14b65fb6e165c6df800f9afc6c5efe39448500807"
 
@@ -37,23 +45,23 @@ file = "config/world-gen.json"
 hash = "466e28efb49941777f80aba9a826335c646ddee2bfccca8af34be9e091aa4536"
 
 [[files]]
-file = "config/xaerominimap-common.txt"
+file = "configureddefaults/config/xaerominimap-common.txt"
 hash = "cf1d0e1e3e34aeb409308dbece6530836ab6a9f2bef621cb37b7ce4d31fe2952"
 
 [[files]]
-file = "config/xaerominimap.txt"
+file = "configureddefaults/config/xaerominimap.txt"
 hash = "5289233c84b48c963cc8ffd3142640fa163b43d7b28a455a85827777730a0575"
 
 [[files]]
-file = "config/xaerominimap_entities.json"
+file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "e4d550c6519e4c1a53941ef5347129b5d7459cd4c288e47859ac8d1c69c1db29"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
+file = "configureddefaults/config/xaeroworldmap-common.txt"
 hash = "af3db5229d91ecd6e09c18d355b66959984e41d6b6e6e85074afae993fe50bea"
 
 [[files]]
-file = "config/xaeroworldmap.txt"
+file = "configureddefaults/config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
@@ -186,6 +194,11 @@ hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "907fb624b57dc56ec0e7bf39b430aa13a39f0181b150de9b0d749547e506ce3c"
 metafile = true
@@ -253,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
 
 [[files]]
@@ -629,10 +647,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3b36a74af34b0b17173d95cd73665e41b7b62fd7f16eb070d080ca97ba5e174a"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.pw.toml"
