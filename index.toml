@@ -25,6 +25,10 @@ file = "config/defaultoptions/options.txt"
 hash = "62ea8ed4343c703da9448e9c789eccddbc923647ca966f4aebcea1d8506c6674"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "57cfc25424ca115428e13f73f1268b80894bbb5141b3a25d19621a21bec54937"
+
+[[files]]
 file = "config/lootintegrations.json"
 hash = "041f38c698e4d28b012ab9c14b65fb6e165c6df800f9afc6c5efe39448500807"
 
@@ -43,6 +47,10 @@ hash = "2a5729209a9ae856ed99dbe473227858b888207399a15627a80f1cabad8bdd3d"
 [[files]]
 file = "config/world-gen.json"
 hash = "466e28efb49941777f80aba9a826335c646ddee2bfccca8af34be9e091aa4536"
+
+[[files]]
+file = "configureddefaults/config/stylisheffects-client.toml"
+hash = "c49cf99c25c8269caa6d5eddb6e62f1738711f166086f0fc1b27328ee13c290e"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap-common.txt"
