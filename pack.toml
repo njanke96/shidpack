@@ -1,12 +1,12 @@
 name = "Shidpack"
 author = "ri0tjuice"
-version = "1.0.3"
+version = "1.0.4dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f9b13f64d8018c71a4ba9a9be6bca39a59953747226738b188a4d9e21b255ca8"
+hash = "72974cbc9675b7f51fb19ceb5db9987de0f6b9e29da386e6b24223ff2ec20259"
 
 [versions]
 minecraft = "1.21.1"
