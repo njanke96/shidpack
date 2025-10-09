@@ -1,6 +1,6 @@
 name = "Shidpack"
 author = "ri0tjuice"
-version = "1.0.4"
+version = "1.0.5dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
